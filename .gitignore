@@ -1,0 +1,11 @@
+# dependencies
+node_modules/
+
+# environment
+.env
+
+# system
+.DS_Store
+package-lock.json
+
+
