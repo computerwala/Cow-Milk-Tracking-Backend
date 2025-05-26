@@ -4,8 +4,12 @@ node_modules/
 # environment
 .env
 
+# logs
+*.log
+logs/
+npm-debug.log*
+
 # system
 .DS_Store
 package-lock.json
-
 
